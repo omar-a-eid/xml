@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="library.css" ?>
+
+<library>
+  <library_info>
+    <location>hogwarts, Scotland</location>
+    <description>Unlock the Mysteries of Magic! Find all the secrets about the art of magic in this enchanting library.</description>
+    <librarian>professor severus snape</librarian>
+  </library_info>
+
+  <books>
+    <book>
+      <title>Philosopher's Stone</title>
+      <ISBN>0-7056-0765-8</ISBN>
+      <author>
+        Hermione Granger
+        </author>
+      <preface>Welcome to the realm of magic! Embark on a journey into the unknown and discover the secrets hidden within.</preface>
+      <parts>
+        <part>
+          <title>Elemental Magic</title>
+          <chapters>
+            <chapter>
+              <title>Harnessing the Elements</title>
+              <summary>Learn to wield the power of fire, water, air, and earth in your magical endeavors.</summary>
+              <sections>
+                <section>Master the art of fire manipulation.</section>
+                <section>Command the tides with water magic.</section>
+                <section>Whisper with the winds using air spells.</section>
+                <section>Channel the strength of the earth in your rituals.</section>
+              </sections>
+            </chapter>
+          </chapters>
+        </part>
+        <part>
+          <title>Dark Arts</title>
+          <chapters>
+            <chapter>
+              <title>Exploring Forbidden Magic</title>
+              <summary>Dare to delve into the darker aspects of magic and uncover its forbidden secrets.</summary>
+              <sections>
+                <section>Unlock the mysteries of necromancy and communicate with the spirits of the departed.</section>
+                <section>Manipulate shadows to conceal yourself or strike fear into your enemies.</section>
+              </sections>
+            </chapter>
+          </chapters>
+        </part>
+      </parts>
+    </book>
+
+    <book>
+      <title>Chamber of Secrets</title>
+      <ISBN>0-1335-0600-2</ISBN>
+      <author>Albus Dumbledore</author>
+      <preface>Enter a world of wonder and amazement, where the impossible becomes reality and magic reigns supreme.</preface>
+      <parts>
+        <part>
+          <title>Mystical Creatures</title>
+          <chapters>
+            <chapter>
+              <title>Encounters with Legendary Beings</title>
+              <summary>Embark on mythical adventures and encounter creatures of legend in this mesmerizing exploration.</summary>
+              <sections>
+                <section>Witness the majestic flight of dragons soaring across the sky.</section>
+                <section>Commune with wise and ancient beings such as unicorns and phoenixes.</section>
+              </sections>
+            </chapter>
+          </chapters>
+        </part>
+      </parts>
+    </book>
+
+
+  </books>
+</library>

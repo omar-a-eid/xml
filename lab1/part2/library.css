@@ -1,0 +1,29 @@
+library {
+  padding: 20px;
+}
+library_info {
+  display: flex;
+  flex-direction: column;
+  font-size: 16px;
+  color: #333;
+}
+
+book {
+  display: block;
+  margin-bottom: 20px;
+}
+
+title {
+  font-weight: bold;
+}
+
+ISBN,
+author,
+preface,
+parts,
+chapters,
+sections {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}

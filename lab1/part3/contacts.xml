@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+    <contact>
+        <name>John Doe</name>
+        <phone>123456789</phone>
+        <address>123 Main St, City, Country</address>
+        <email>john@example.com</email>
+    </contact>
+<contact><name>omar</name><phone>123</phone><address>asdf</address><email>omar.ahmed.eid89@gmail.com</email></contact></contacts>
