@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE employeeList SYSTEM "employees.dtd">
+<?xml-stylesheet type="text/css" href="employees.css"?>
+<employeeList>
+  <employee>
+    <name>Omar</name>
+    <phones>
+      <phone type="home">123</phone>
+      <phone type="work">456</phone>
+      <phone type="mobile">789</phone>
+    </phones>
+    <address>
+      <street>mostafa Kamel</street>
+      <building>10</building>
+      <number>2</number>
+      <region>Smoha</region>
+      <city>Alex</city>
+      <country>EG</country>
+    </address>
+    <email>omar@gmail.com</email>
+  </employee>
+  <employee>
+    <name>Ahmed</name>
+    <phones>
+      <phone type="home">321</phone>
+    </phones>
+    <address>
+      <city>Cairo</city>
+      <country>EG</country>
+    </address>
+    <email>ahmed@gmail.com</email>
+  </employee>
+  <employee>
+    <name>Ali</name>
+    <phones>
+      <phone type="work">654</phone>
+      <phone type="mobile">987</phone>
+    </phones>
+    <address>
+      <region>Gleem</region>
+      <city>Alex</city>
+      <country>EG</country>
+    </address>
+    <email>ali@gmail.com</email>
+  </employee>
+</employeeList>
