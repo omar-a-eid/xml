@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE employeeList SYSTEM "employees.dtd">
-<?xml-stylesheet type="text/css" href="employees.css"?>
+<?xml-stylesheet type="text/xsl" href="employees.xsl"?>
+
 <employeeList>
   <employee>
     <name>Omar</name>
